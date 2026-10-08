@@ -1,8 +1,5 @@
 -- Software Bug & Defect Lifecycle Analytics
--- Phase 6: SQL Data Cleaning
-
--- Software Bug & Defect Lifecycle Analytics
--- Phase 6: SQL Data Cleaning
+-- SQL Data Cleaning
 
 -- 1. Create a working copy of the raw dataset
 CREATE TABLE public.defects_clean AS

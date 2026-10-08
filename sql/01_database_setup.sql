@@ -1,5 +1,5 @@
 -- Software Bug & Defect Lifecycle Analytics
--- Phase 4: PostgreSQL Database Setup
+-- PostgreSQL Database Setup
 
 -- Create the project database once from the default postgres database:
 -- CREATE DATABASE defect_analytics;

@@ -1,5 +1,5 @@
 -- Software Bug & Defect Lifecycle Analytics
--- Phase 5: Raw Data Validation
+-- Raw Data Validation
 
 -- 1. Total row count
 SELECT COUNT(*) AS total_rows
