@@ -17,7 +17,9 @@ SELECT
     created_date,
     resolution_hours,
     sla_status,
-    reopened_count
+    reopened_count,
+    release,
+    developer
 FROM public.defects_clean;
 
 
