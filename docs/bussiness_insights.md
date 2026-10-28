@@ -10,6 +10,7 @@ This project analyzes 12,000 software defect records using SQL, PostgreSQL, and 
 SLA breach rates range from 56.66% to 57.99% across the six applications analyzed. Reporting has the highest breach rate at 57.99%, while Payment Platform has the lowest at 56.66%. The narrow range suggests that SLA breaches are a cross-application concern rather than an issue confined to one application.
 
 ### Module Quality
+
 Among the ten module rows examined, Refunds has 47 critical defects out of 483 total defects, giving it a critical-defect percentage of 9.73%. This module warrants further investigation and prioritization.
 
 ### Release Quality
